@@ -32,11 +32,13 @@ if start == "":
 # defined all questions, the specific answers, and the correct answer (a, b, or c)
 question("Was ist Linux?", "Eine Desktopumgebung", "Ein Kernel", "Ein Betriebssystem", "b")
 question("Wie heißt das Maskottchen von Linux?", "Tuz", "Tux", "Tuc", "b")
+question("Wer ist der Erfinder von Linux?", "Linux Torvalds", "Christiano Ronaldo", "Judd Vinet", "a")
 question("Welche Distribution ist die älteste, die noch weiterentwickelt wird?", "Ubuntu", "OpenSuse", "Slackware", "c")
 question("Welche Distribution basiert nicht auf Debian?", "Arch Linux", "Raspbian", "Ubuntu", "a")
 question("Seit wann gibt es Linux?", "seit 1991", "seit 1985", "seit 2004", "a")
 question("Unter welcher Lizenz wird Linux herausgegeben?", "Apache 2.0", "Mozilla Public Licence", "GPLv2", "c")
 question("Welche dieser Distribution wird allgemein für Anfänger empfohlen?", "OpenSuse", "Linux Mint", "Kali Linux", "b")
+question("Welcher Paketmanager wird bei der Distributuin Fedora eingesetzt?", "apt", "zypper", "dnf", "c")
 # ^more questions in progress 
 
 # displays some motivating words and the final result 
