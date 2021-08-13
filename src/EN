@@ -1,0 +1,78 @@
+# BASIC
+
+prompt = 'Welcome to the Linux Quiz. You must now answer all questions with "a" "b" or "c". To start the quiz, press Enter: '
+load = "Loading..."
+r = "Correct"
+w = "Incorrect"
+# --------------------------------
+
+# QUESTIONS
+X = "a"
+Y = "b"
+Z = "c"
+
+
+
+q1 = "What is Linux?"
+a1a = "A desktop environment"
+a1b = "A kernel"
+a1c = "An operating system"
+
+q2 = "What is the name of the mascot of Linux?"
+a2a = "Tux"
+a2b = "Tuz"
+a2c = "Tuc"
+
+q3 = "Who is the inventor of Linux?"
+a3a = "Linus Torvalds"
+a3b = "Christiano Ronaldo"
+a3c = "Linux Torvalds"
+
+q4 = "Which distribution is the oldest that is still being developed?"
+a4a = "Ubuntu"
+a4b = "OpenSUSE"
+a4c = "Slackware"
+
+q5 = "Which distribution is not based on Debian?"
+a5a = "Arch Linux"
+a5b = "Raspian"
+a5c = "Linux Mint (DE)"
+
+q6 = "Since when has Linux been created?"
+a6a = "since 2004"
+a6b = "since 1985"
+a6c = "since 1991"
+
+q7 = "Under which license is Linux released?"
+a7a = "Apache 2.0"
+a7b = "Mozilla Public License"
+a7c = "GPLv2"
+
+q8 = "Which of these distributions is generally recommended for beginners?"
+a8a = "OpenSUSE"
+a8b = "Linux Mint"
+a8c = "Kali Linux"
+
+q9 = "Which package manager is used on the distribution Fedora?"
+a9a = "apt"
+a9b = "zypper"
+a9c = "dnf"
+
+# ---------------------------------
+
+# FEEDBACK
+
+verygood = "Great! You seem to know Linux really well."
+good = "Relatively good! But here and there you could still fill knowledge gaps ;)"
+bad = "Well... Maybe inform yourself a bit more about Linux, and then try it again. Because practice makes perfect!"
+# --------------------------------
+
+# END
+
+end1 = "The quiz is over. Your results are "
+end2 = " of "
+end3 = " reachable points!"
+
+log1 = "There were "
+log2 = " of "
+log3 = " points have been scored."
