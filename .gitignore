@@ -1,1 +1,4 @@
-/quiz_en.py
+results.txt
+src/__pycache__
+src/results.txt
+src/active.py
